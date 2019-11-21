@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void setPrivacy() {
         if (privateMode) {
-            // GONE will influence the layout
             preferenceTextView.setVisibility(View.GONE);
         } else {
             preferenceTextView.setVisibility(View.VISIBLE);

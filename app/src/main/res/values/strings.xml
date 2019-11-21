@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Preference Tutorial</string>
+    <string name="app_name">Preference Tutorial: Main</string>
+    <string name="activity_settings">Preference Tutorial: Settings</string>
 </resources>
